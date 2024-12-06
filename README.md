@@ -33,7 +33,7 @@ Tabbarın sol kısmındaki butona basarsak ;
 
 ![Simulator Screenshot - iphone 11-7](https://github.com/user-attachments/assets/4c88005e-20b7-405f-9c09-58548f69e43c)
 
-Karşımıza Core Datadan rastgele seçilmiş kelime geliyor. Şıklar ise yine 3 tanesi rastgele seçilmiştir 1 tanesi doğru seçenektir. her seferinde doğru şıkkın yeri değişmektedir.
+Karşımıza Core Datadan rastgele seçilmiş kelime geliyor. Şıklar ise yine 3 tanesi rastgele seçilmiştir 1 tanesi doğru seçenektir. her seferinde doğru şıkkın yeri değişmektedir. Sol alt tarafta yine ingilizce kelimenin telafuzunu dinlemek için bir butonumuz var.
 
 Hata yapılırsa ;
 
