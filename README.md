@@ -1,47 +1,93 @@
 
-Uygulamamız Swift UIKit kullanılarak yazılmıştır. Veriler Core Data ile kaydedilmektedir.
 
-Uygulama Görsel Tanıtımı :
+# English Vocabulary Notebook
+
+## Keywords:
+
+- Core Data
+- UIKit
+- UIViewController
+- TableView 
+
+## Main Features:
+
+### Home Screen 
+
+- TableView 
+- Add view button
+- Quiz view button
+- Worning view button
+
+### Add button
+
+- Add Word and Meaning: The user writes the English word they want to memorize along with its meaning.
+- Example Sentence: The user can write an example sentence using this word in English.
+- Turkish Translation: The user can add the Turkish translation of the example sentence.
+- Save: The user can save the word, its meaning, the example sentence, and its translation.
+
+### Quiz Screen
+
+- Random Words: The app randomly selects words from the database.
+- Multiple Choice: For each word, there are 4 possible answers presented.
+- Correct Answer: One of the 4 answers is correct.
+- Shuffled Answers: The position of the correct answer is shuffled each time.
+- Incorrect Answers: If the user selects the wrong answer, it is recorded as a wrong answer in the core data.
+- Tracking Progress: The system tracks both correct and incorrect answers in the database.
+- Listening Feature: There is a button on the bottom left of the screen that allows users to listen to the English pronunciation of the word. This feature helps users with correct pronunciation.
+
+### Worning Screen
+
+- Wrong Words: The words the user answered incorrectly are listed here.
+- English and Turkish Translations: Both the English and Turkish translations of the incorrect words are displayed.
+- Study Opportunity: The user can visit this page to review and study the words they got wrong.
+- Progress Tracking: This page helps users track their progress and focus on the words they need to improve.
 
 
-![Simulator Screenshot - iphone 11](https://github.com/user-attachments/assets/fe568fb1-bea2-4e24-921d-e653408f591d)
-
-Uygulamamızın Giriş ekranı burası , ortadaki add tuşuna bısılrısa ; 
-
-![Simulator Screenshot - iphone 11-2](https://github.com/user-attachments/assets/e27a87b5-4b6c-4db9-9572-b39ee41f78ae)
-
-Bu ekrnımızıda istediğimiz ingilizce kelimeyi ve anlamını yazabiliriz , kullanıcı bunlar doldurulmak zorundadır aksi halinde ;
-
-![Simulator Screenshot - iphone 11-3](https://github.com/user-attachments/assets/eeba6b95-c30b-45c0-981c-78f7ead575a1)
-
-Bu hatayı veriri , alt tarafdaki önrek ingilizce ve turkce textField'ları opsiyoneldir. 
-
-![Simulator Screenshot - iphone 11-10](https://github.com/user-attachments/assets/d253fdb1-b321-477b-b684-d1afd2fe6b7a)
-
-Save diyelim bakalım.
-
-![Simulator Screenshot - iphone 11-6](https://github.com/user-attachments/assets/858c6ec4-5161-4942-9e8b-b4f641d1025a)
-
-Kelimemiz Core dataya kaydedildi. Eklediğimiz kelimeye basarsak ise ;
-
-![Simulator Screenshot - iphone 11-5](https://github.com/user-attachments/assets/24d6aee5-f9ff-48de-b46f-ebaaa4ced0b4)
-
-Kaydettiğimiz verileri aynı şekilde görebiliyoruz. Ekstra olarak sol alt tarafta bi SFSembolü karşımıza çıkıyor , basıldığı taktirde ingilizce kelimenin telafuzunu duyabiliyoruz.
+### Promotional video
 
 
-Tabbarın sol kısmındaki butona basarsak ;
-
-![Simulator Screenshot - iphone 11-7](https://github.com/user-attachments/assets/4c88005e-20b7-405f-9c09-58548f69e43c)
-
-Karşımıza Core Datadan rastgele seçilmiş kelime geliyor. Şıklar ise yine 3 tanesi rastgele seçilmiştir 1 tanesi doğru seçenektir. her seferinde doğru şıkkın yeri değişmektedir. Sol alt tarafta yine ingilizce kelimenin telafuzunu dinlemek için bir butonumuz var.
-
-Hata yapılırsa ;
-
-![Simulator Screenshot - iphone 11-8](https://github.com/user-attachments/assets/f03b503a-4e0e-4efe-9980-1ec493d0dd2d)
-
-Kırmızı bir uyarı veriliyor ve hata yapılan kelime Core Dataya kaydediliyor , kaydedilen kelime ise tabbarımızın sağ tarafındaki butonun içindeki View da gösteriliyor 
-
-![Simulator Screenshot - iphone 11-9](https://github.com/user-attachments/assets/e62c9bc6-59dd-4a2a-9210-33aab3f5fff3)
 
 
-Uygulamamızın Görsel görünümü böyledir , tabiki designer ile çalışılırsa daha güzel bir görünüm olacaktır, geliştirici olarak göresel kısmını bu kadar başarabildim :)
+<img src="https://github.com/user-attachments/assets/87b27fef-71cc-4c31-afda-83f2c8ff62ec" width="250" alt="Demo GIF">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
