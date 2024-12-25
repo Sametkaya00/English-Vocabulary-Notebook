@@ -50,8 +50,7 @@
 
 <img src="https://github.com/user-attachments/assets/87b27fef-71cc-4c31-afda-83f2c8ff62ec" width="250" alt="Demo GIF">
 
-
-
+Upss ! accotding = according 🫣
 
 
 
